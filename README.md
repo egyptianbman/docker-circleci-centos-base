@@ -1,2 +1,5 @@
 # docker-circleci-centos-base
-A centos-based container for circleci builds
+
+This centos-based container is for circleci builds.
+
+This container will be auto built to ensure packages remain up-to-date.
